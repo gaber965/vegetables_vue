@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "silder" :[
+    {
+      "id" : 1,
+      "image": "https://hsinternationalexim.com/wp-content/uploads/2022/06/vege2.png",
+      "title": "Vegetables",
+      "title2": "Shop",
+      "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem"
+    },
+
+    {
+      "id" : 2,
+      "image": "https://hsinternationalexim.com/wp-content/uploads/2022/06/vege2.png",
+      "title": "Vegetables",
+      "title2": "Shop",
+      "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem"
+    },
+    {
+      "id" : 3,
+      "image": "https://hsinternationalexim.com/wp-content/uploads/2022/06/vege2.png",
+      "title": "Vegetables",
+      "title2": "Shop",
+      "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem"
+    },
+    {
+      "id" : 4,
+      "image": "https://hsinternationalexim.com/wp-content/uploads/2022/06/vege2.png",
+      "title": "Vegetables",
+      "title2": "Shop",
+      "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem"
+    }
+  ],
+  "product" : [
+    {
+      "id":"1",
+      "img": "",
+      "price":"10",
+      "title": "Tomato",
+      "weight":"1 kg",
+      "description": "adipiscing elit, sed do eiusmod tempor"
+
+    },
+    {
+      "id":"1",
+      "img": "",
+      "price":"10",
+      "title": "Tomato",
+      "weight":"1 kg",
+      "description": "adipiscing elit, sed do eiusmod tempor"
+
+    },
+    {
+      "id":"1",
+      "img": "",
+      "price":"10",
+      "title": "Tomato",
+      "weight":"1 kg",
+      "description": "adipiscing elit, sed do eiusmod tempor"
+
+    },
+    {
+      "id":"1",
+      "img": "",
+      "price":"10",
+      "title": "Tomato",
+      "weight":"1 kg",
+      "description": "adipiscing elit, sed do eiusmod tempor"
+
+    },
+    {
+      "id":"1",
+      "img": "",
+      "price":"10",
+      "title": "Tomato",
+      "weight":"1 kg",
+      "description": "adipiscing elit, sed do eiusmod tempor"
+
+    },
+    {
+      "id":"1",
+      "img": "",
+      "price":"10",
+      "title": "Tomato",
+      "weight":"1 kg",
+      "description": "adipiscing elit, sed do eiusmod tempor"
+
+    },
+    {
+      "id":"1",
+      "img": "",
+      "price":"10",
+      "title": "Tomato",
+      "weight":"1 kg",
+      "description": "adipiscing elit, sed do eiusmod tempor"
+
+    },
+    {
+      "id":"1",
+      "img": "",
+      "price":"10",
+      "title": "Tomato",
+      "weight":"1 kg",
+      "description": "adipiscing elit, sed do eiusmod tempor"
+
+    }
+  ]
+}
