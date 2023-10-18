@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkportfilo"]=globalThis["webpackChunkportfilo"]||[]).push([[563],{7563:(r,o,t)=>{t.r(o),t.d(o,{default:()=>l});var e=t(9835);function u(r,o){const t=(0,e.up)("router-view");return(0,e.wg)(),(0,e.j4)(t)}var n=t(1639);const a={},i=(0,n.Z)(a,[["render",u]]),l=i}}]);
